@@ -1,0 +1,10 @@
+/build
+/node_modules
+/server/node_modules
+mongodb/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
